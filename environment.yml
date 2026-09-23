@@ -1,0 +1,8 @@
+channels:
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - cuda-version=13.2
+  - cuda-toolkit=13.2
