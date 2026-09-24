@@ -16,6 +16,7 @@ dependencies = [
 
 [project.scripts]
 bindcraft = "bindcraft.cli:main"
+Bindcraft2 = "bindcraft.cli:main"
 
 [project.optional-dependencies]
 # The GPU environment every recorded baseline was measured in carries jax-cuda13-plugin and
